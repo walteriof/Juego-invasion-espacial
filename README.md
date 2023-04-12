@@ -4,7 +4,7 @@ Juego elaborado en python con la librería pygame, donde una nave espacial debe 
 **Walter Damián Frenguelli**
 * [LinkedIn] (https://www.linkedin.com/in/walter-dami%C3%A1n-frenguelli-49b804152/)
 ## Instalación: 
-Requiere la instalación de la librería pygame desde la terminal, utilizando pip. Te recomiendo descargarte el código y ejecutarlo en tu IDE.
+Requiere la instalación de la librería pygame desde la terminal, utilizando pip. Te recomiendo descargarte el código y los archivos adjuntos (imágenes y sonidos del juego que deberás descomprimir y colocar en la misma carpeta donde se ejecuta python), luego podrás ejecutarlo en tu IDE.
 ## Licencia:
 MIT Public Licence v3.0
 No puede usarse comercialmente
